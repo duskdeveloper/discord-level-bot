@@ -60,3 +60,7 @@ Preferred communication style: Simple, everyday language.
 ### Optional Integrations
 - **File System**: Local SQLite database file storage
 - **Discord Permissions**: Requires message content intent, guild access, and member intent for full functionality
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
