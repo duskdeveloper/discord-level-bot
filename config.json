@@ -1,0 +1,31 @@
+{
+    "default_settings": {
+        "xp_per_message": 15,
+        "xp_cooldown": 60,
+        "announcement_enabled": true,
+        "min_message_length": 3,
+        "max_xp_bonus": 5,
+        "length_bonus_threshold": 10
+    },
+    "level_thresholds": {
+        "bronze": 10,
+        "silver": 25,
+        "gold": 50,
+        "platinum": 100,
+        "diamond": 200
+    },
+    "emoji_config": {
+        "level_up": "🎉",
+        "rank": "📊",
+        "leaderboard": "🏆",
+        "xp": "⭐",
+        "progress": "📈"
+    },
+    "color_scheme": {
+        "success": "0x00ff00",
+        "error": "0xff0000",
+        "info": "0x3498db",
+        "warning": "0xffd700",
+        "level_up": "0x00ff00"
+    }
+}
